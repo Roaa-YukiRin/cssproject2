@@ -8,4 +8,6 @@ css project 2 in sololearn app
 ### 1. Set the font-family of the body to Arial, sans-serif
 ### 2.Center-align the #profile section and color its text with #FFFFFF
 ### 3.Color .active-day elements with #00CC00 and .inactive-day with #cccccc47 to represent active and inactive days, respectively
-
+ solotion
+ ## part 1: https://youtu.be/xODRh1c_YYo
+## part2 https://youtu.be/brHFMTermgA
